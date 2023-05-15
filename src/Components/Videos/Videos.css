@@ -1,0 +1,11 @@
+.contenedorVideo {
+    width: 320px; 
+    height: 250px;
+    border: 4px solid ;
+    margin: 5px 10px;
+    overflow: hidden;
+}
+.imagen {
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,25 @@
+.contenedor {
+    width: 100%;
+    height: auto;
+    
+}
+.formularioCategoria {
+    height: 55vh;
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.8);
+    margin: 20px 0; 
+}
+
+@media (max-width: 600px) {
+    .contenedor {
+      height: 74vh;
+    }
+    .formularioCategoria{
+        height: 62vh;
+    }
+    .displayNone {
+        display: none;
+    }
+}
