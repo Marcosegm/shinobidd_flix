@@ -10,7 +10,6 @@ import { Link } from "react-router-dom";
 import { obtenerRegistroOpciones, actualizarCategoria } from "../../API/api";
 
 
-
 const FormularioCategoria = (props) => {
 
     const {nombreCategoria, eliminarCategoria, crearCategoria, editarCategoria} = props
@@ -19,9 +18,7 @@ const FormularioCategoria = (props) => {
     const [descripcion, setDescripcion] = useState("");
     const [codigo, setCodigo] = useState("");
     const [color, setColor] = useState("");
-
     const [datos, setDatos] = useState({});
-
     const [obtenerId, setObtenerId] = useState("")
 
     useEffect(() => {
@@ -57,7 +54,6 @@ const FormularioCategoria = (props) => {
             id: uuid()
         }
         crearCategoria(datosInput)
-        console.log(datosInput)
     }
     const manejarColor = (e) => {
         setColor(e.target.value)
@@ -107,7 +103,7 @@ const FormularioCategoria = (props) => {
                 </div>
                 <div className="btnContainer">
                     <Stack spacing={3} direction="row" >
-                        <Btn color="primary" texto="Guardar" type="submit"/>
+                        <Btn color="primary" texto="Guardar" type="submit" />
                         <Btn color="secondary" texto="limpiar" onClick={manejarLimpiar} />
                     </Stack>
                     <Stack >

@@ -18,6 +18,7 @@ const FormularioVideo = (props) => {
     const [opciones, setOpciones] = useState("")
     const [descripcion, setDescripcion] = useState("")
     const [codigo, setCodigo] = useState("")
+    const [isActive, setIsActive] = useState(true)
     
     const manejarEnvio = (e) => {
         // e.preventDefault()
@@ -39,6 +40,10 @@ const FormularioVideo = (props) => {
         setLinkImagen("");
         setDescripcion("");
         setCodigo("");
+    }
+
+    const handleClick = () => {
+        setIsActive(false);
     }
 
     return (
@@ -89,7 +94,8 @@ const FormularioVideo = (props) => {
                 />
                 <div className="btnContainer">
                     <Stack spacing={3} direction="row" >
-                        <Btn color="primary" texto="Guardar" type="submit"/> 
+                        <Btn color="primary" texto="Guardar" type="submit" /> 
+                        {/* onClick={handleClick} disabled={!isActive} */}
                         <Btn color="secondary" texto="limpiar" onClick={manejarLimpiar}/>
                     </Stack>
                     <Stack>
@@ -98,7 +104,7 @@ const FormularioVideo = (props) => {
 
                 </div>
             </form>
-            
+            {!isActive && <div className="textoConfirmacion">Video subido con éxito!!</div>}
         </Container>
     )
 }

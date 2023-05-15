@@ -5,7 +5,7 @@ const CategoriaGuardada = () => {
         <div className="categoriaGuardada">
             <img className="logoError" src="/img/icon-naruto.svg" alt="logo"/>
            <div>
-                <h2>Categoria Actualizada con éxito</h2>
+                <h2 className="textoCategoriaGuardada">Categoria Actualizada con éxito!!</h2>
            </div>
         </div>
     )

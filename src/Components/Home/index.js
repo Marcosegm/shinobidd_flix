@@ -51,7 +51,7 @@ const Home = (props) => {
             <h2 className="tituloCategoria" style={{backgroundColor : datos.color}}> {datos.titulo} </h2>
             <div className="contenedorVideos">
                 <Slider {...settings}>
-                    {videoNuevo.map( (video) =>
+                    {videoNuevo.map( (video, i) =>
                         <div className="card" >
                             <a className="subcard" href={video.linkVideo}  target="_blank" rel="noopener noreferrer"><img className="imagen" src={video.linkImagen} alt="imagen" style={{borderColor: datos.color}}/></a>
                         </div>

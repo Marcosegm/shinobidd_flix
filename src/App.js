@@ -102,6 +102,7 @@ function App() {
   const registrarVideo = (video) => {
     // setVideoNuevo([...videoNuevo, video])
     // console.log(video)
+    console.log(video)
     crear(url1, video)
     .then(response => {
       console.log("Registro creado:", response)

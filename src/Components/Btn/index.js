@@ -6,7 +6,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 const Btn = (props) => {
 
-    const {color, texto, type, onClick} = props 
+    const {color, texto, type, onClick, disabled} = props 
 
     const theme = createTheme({
         palette: {
@@ -27,7 +27,7 @@ const Btn = (props) => {
 
     return (
         <ThemeProvider theme={theme}>
-            <Button color={color} variant="contained" type={type}  onClick={onClick} > {texto} </Button>
+            <Button color={color} variant="contained" type={type}  onClick={onClick} disabled={disabled}> {texto} </Button>
         </ThemeProvider>
         
     )
