@@ -63,66 +63,23 @@
       "id": "2"
     },
     {
-      "titulo": "Naruto",
-      "linkVideo": "https://www.youtube.com/watch?v=gM0XmG1pjBI",
-      "linkImagen": "https://static.vecteezy.com/system/resources/previews/014/845/288/original/naruto-character-illustration-icon-flat-cartoon-style-free-vector.jpg",
-      "opciones": "Naruto",
+      "titulo": "Dragon Ball Z",
+      "linkVideo": "https://www.youtube.com/watch?v=xhk7WxyU_Sw",
+      "linkImagen": "https://generacionxbox.com/wp-content/uploads/2021/03/Dragon-Ball-Z-Kakarot-ID.jpg",
+      "opciones": "Dragon Ball Z",
       "descripcion": "naruto shipuden",
       "codigo": "124",
-      "id": "1"
+      "id": "2"
     },
     {
-      "titulo": "Dragon ball",
-      "linkVideo": "https://www.youtube.com/watch?v=YZ-IVQAL7SU",
-      "linkImagen": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
+      "titulo": "Dragon Ball Z",
+      "linkVideo": "https://www.youtube.com/watch?v=xhk7WxyU_Sw",
+      "linkImagen": "https://generacionxbox.com/wp-content/uploads/2021/03/Dragon-Ball-Z-Kakarot-ID.jpg",
       "opciones": "Dragon Ball Z",
-      "descripcion": "Dragon ball z",
-      "codigo": "123",
-      "id": "56fc4461-f06b-4da0-8fde-02e9415c2355"
-    },
-    {
-      "titulo": "Dragon ball",
-      "linkVideo": "https://www.youtube.com/watch?v=YZ-IVQAL7SU",
-      "linkImagen": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
-      "opciones": "Dragon Ball Z",
-      "descripcion": "Dragon ball z",
-      "codigo": "123",
-      "id": "56fc4461-f06b-4da0-8fde-02e9415c2355"
-    },
-    {
-      "titulo": "Dragon ball",
-      "linkVideo": "https://www.youtube.com/watch?v=YZ-IVQAL7SU",
-      "linkImagen": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
-      "opciones": "Dragon Ball Z",
-      "descripcion": "Dragon ball z",
-      "codigo": "123",
-      "id": "56fc4461-f06b-4da0-8fde-02e9415c2355"
-    },
-    {
-      "titulo": "Dragon ball",
-      "linkVideo": "https://www.youtube.com/watch?v=YZ-IVQAL7SU",
-      "linkImagen": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
-      "opciones": "Dragon Ball Z",
-      "descripcion": "Dragon ball z",
-      "codigo": "123",
-      "id": "56fc4461-f06b-4da0-8fde-02e9415c2355"
-    },{
-      "titulo": "Dragon ball",
-      "linkVideo": "https://www.youtube.com/watch?v=YZ-IVQAL7SU",
-      "linkImagen": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
-      "opciones": "Dragon Ball Z",
-      "descripcion": "Dragon ball z",
-      "codigo": "123",
-      "id": "56fc4461-f06b-4da0-8fde-02e9415c2355"
-    },
-    {
-      "titulo": "Dragon ball",
-      "linkVideo": "https://www.youtube.com/watch?v=YZ-IVQAL7SU",
-      "linkImagen": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
-      "opciones": "Dragon Ball Z",
-      "descripcion": "Dragon ball z",
-      "codigo": "123",
-      "id": "56fc4461-f06b-4da0-8fde-02e9415c2355"
+      "descripcion": "naruto shipuden",
+      "codigo": "124",
+      "id": "2"
     }
+    
   ]
 }
