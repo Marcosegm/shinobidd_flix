@@ -1,0 +1,183 @@
+[
+ {
+  "titulo": "Naruto",
+  "color": "#FF8A29",
+  "descripcion": "La obra narra la historia de un Ninja huérfano adolescente llamado Naruto Uzumaki",
+  "codigo": "123",
+  "id": "1"
+ },
+ {
+  "titulo": "Dragon Ball Z",
+  "color": "#E06b69",
+  "descripcion": "Dragon Ball Z continúa las aventuras de Son Goku en su vida adulta mientras él y sus compañeros defienden la Tierra contra villanos",
+  "codigo": "123",
+  "id": "2"
+ },
+ {
+  "titulo": "Demon Slayer",
+  "color": "#DB6EBF",
+  "descripcion": "",
+  "codigo": "123",
+  "id": "3"
+ },
+ {
+  "titulo": "Attack on Titan",
+  "color": "#A6D157",
+  "descripcion": "",
+  "codigo": "123",
+  "id": "4"
+ },
+ {
+  "titulo": "Boku no Hero",
+  "color": "#82CFFA",
+  "descripcion": "",
+  "codigo": "123",
+  "id": "5"
+ },
+ {
+  "titulo": "Fullmetal Alchemist",
+  "color": "#57C278",
+  "descripcion": "",
+  "codigo": "123",
+  "id": "6"
+ }
+]
+
+
+[
+ {
+  "titulo": "Naruto",
+  "linkVideo": "https://www.youtube.com/watch?v=gM0XmG1pjBI",
+  "linkImagen": "https://naruto-official.com/common/ogp/NTOS_OG-main.png",
+  "opciones": "Naruto",
+  "descripcion": "naruto shipuden",
+  "codigo": "124",
+  "id": "1"
+ },
+ {
+  "titulo": "Dragon Ball Z",
+  "linkVideo": "https://www.youtube.com/watch?v=xhk7WxyU_Sw",
+  "linkImagen": "https://generacionxbox.com/wp-content/uploads/2021/03/Dragon-Ball-Z-Kakarot-ID.jpg",
+  "opciones": "Dragon Ball Z",
+  "descripcion": "naruto shipuden",
+  "codigo": "124",
+  "id": "2"
+ },
+ {
+  "titulo": "Dragon ball z",
+  "linkVideo": "https://www.youtube.com/watch?v=4EPnL5oVnaw",
+  "linkImagen": "https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/OVVWYGKSQZE7TDSUEX6TWJ7KTA.jpg",
+  "opciones": "Dragon Ball Z",
+  "descripcion": "Dragon ball z",
+  "codigo": "1234",
+  "id": "3"
+ },
+ {
+  "titulo": "Tapion theme",
+  "linkVideo": "https://www.youtube.com/watch?v=ZK7QSu9sjp8",
+  "linkImagen": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/36bdc5ea4443cd8e42f22ec7d3884cbb.jpe",
+  "opciones": "Dragon Ball Z",
+  "descripcion": "Tapion theme",
+  "codigo": "1234",
+  "id": "4"
+ },
+ {
+  "titulo": "Guerros z",
+  "linkVideo": "https://www.youtube.com/watch?v=GvdPX6DXJU4",
+  "linkImagen": "https://i.blogs.es/55492f/orden-dragon-ball/1366_2000.jpeg",
+  "opciones": "Dragon Ball Z",
+  "descripcion": "Guerros z",
+  "codigo": "124",
+  "id": "5"
+ },
+ {
+  "titulo": "Naruto",
+  "linkVideo": "https://www.youtube.com/watch?v=KpsJWFuVTdI",
+  "linkImagen": "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/3f283002b47c62b1e5d311c45f95c97e.jpe",
+  "opciones": "Naruto",
+  "descripcion": "Naruto",
+  "codigo": "124",
+  "id": "6"
+ },
+ {
+  "titulo": "Naruto",
+  "linkVideo": "https://www.youtube.com/watch?v=o-hzTmeCqN0",
+  "linkImagen": "https://media.a24.com/p/dabda78051b0fcd1f37fe0764648b14f/adjuntos/296/imagenes/008/674/0008674234/naruto-netflixpng.png",
+  "opciones": "Naruto",
+  "descripcion": "Naruto",
+  "codigo": "124",
+  "id": "7"
+ },
+ {
+  "titulo": "Naruto",
+  "linkVideo": "https://www.youtube.com/watch?v=o-hzTmeCqN0",
+  "linkImagen": "https://www.coliseugeek.com.br/wp-content/uploads/2023/01/bb034-clickwallpapers-naruto-shippuden-img1.jpg",
+  "opciones": "Naruto",
+  "descripcion": "Naruto",
+  "codigo": "125",
+  "id": "8"
+ },
+ {
+  "titulo": "Eren",
+  "linkVideo": "https://www.youtube.com/watch?v=DeYTBDQnQZw&t=15s",
+  "linkImagen": "https://phantom-marca.unidadeditorial.es/3919daeaa3b4e8e046082cc1adff6352/crop/0x0/1112x741/resize/1320/f/jpg/assets/multimedia/imagenes/2023/03/02/16777543342460.jpg",
+  "opciones": "Attack on Titan",
+  "descripcion": "Eren",
+  "codigo": "124",
+  "id": "9"
+ },
+ {
+  "titulo": "Armin",
+  "linkVideo": "https://www.youtube.com/watch?v=DeYTBDQnQZw&t=15s",
+  "linkImagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/3NC5P43BKRGX7G5W3QTP53GLBU.jpg",
+  "opciones": "Attack on Titan",
+  "descripcion": "Armin",
+  "codigo": "124",
+  "id": "10"
+ },
+ {
+  "titulo": "Eren",
+  "linkVideo": "https://www.youtube.com/watch?v=O8vcdBGLV1E",
+  "linkImagen": "https://somoskudasai.com/wp-content/uploads/2023/03/portada_shingeki-178.jpg",
+  "opciones": "Attack on Titan",
+  "descripcion": "Eren",
+  "codigo": "124",
+  "id": "11"
+ },
+ {
+  "titulo": "Attack on titan",
+  "linkVideo": "https://www.youtube.com/watch?v=O8vcdBGLV1E",
+  "linkImagen": "https://i.blogs.es/724b18/shingeki-no-kyojin-s4/450_1000.jpg",
+  "opciones": "Attack on Titan",
+  "descripcion": "Eren",
+  "codigo": "124",
+  "id": "12"
+ },
+ {
+  "titulo": "Fullmetal",
+  "linkVideo": "https://www.youtube.com/watch?v=MNAn8QPd-jQ",
+  "linkImagen": "https://www.mundodeportivo.com/alfabeta/hero/2021/08/Cual-es-el-orden-para-ver-Fullmetal-Alchemist.jpg?width=1200",
+  "opciones": "Fullmetal Alchemist",
+  "descripcion": "Fullmetal",
+  "codigo": "124",
+  "id": "13"
+ },
+ {
+  "titulo": "Fullmetal",
+  "linkVideo": "https://www.youtube.com/watch?v=ND5FmgDeduk",
+  "linkImagen": "https://cdnx.jumpseller.com/pockettomarket/image/22971862/FMAbannerjpg_1594004688.jpg.jpg?1648256862",
+  "opciones": "Fullmetal Alchemist",
+  "descripcion": "Fullmetal",
+  "codigo": "124",
+  "id": "14"
+ },
+ {
+  "titulo": "FullMetal",
+  "linkVideo": "https://www.youtube.com/watch?v=ND5FmgDeduk",
+  "linkImagen": "https://depor.com/resizer/W95PCAiX2ir61IaOmh-GP7SuRIU=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WEJX3BQRSVBSDKGJPTXGF4F2GY.jpg",
+  "opciones": "Fullmetal Alchemist",
+  "descripcion": "FullMetal",
+  "codigo": "124",
+  "id": "15"
+ }
+]
